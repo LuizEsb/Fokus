@@ -2,7 +2,7 @@
 
  A página contém timers ideais para o método de estudo Pomodoro, com 25 minutos no modo foco, 5 minutos de pausa curta e 15 minutos de pausa longa. Possui alertas sonoros, além da opção de ativar uma música calma e relaxante. Desenvolvi esse projeto durante meus estudos e com ele aprendi bastante sobre manipulação do DOM, eventos, implementação de áudios, manipulação de datas e contadores com intervalos, além de praticar a estruturação e estilização de páginas web com HTML e CSS.
 
-## Confira a versão completa [aqui](https://web-alurabooks-olive.vercel.app/)
+## Confira a versão completa [aqui](https://luizesb.github.io/Fokus/)
 
 ## Modo Foco
 
