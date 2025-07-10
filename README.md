@@ -20,6 +20,8 @@
 
 * Modo Foco, Descanso Curto e Descanso Longo
 
+* Lista de tarefas  
+
 * Música relaxante (On/Off)
 
 * Alertas sonoros que indicam que o timer foi iniciado, pausado ou que chegou ao fim
